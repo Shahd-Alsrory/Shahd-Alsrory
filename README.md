@@ -1,5 +1,4 @@
-<div align="center">
-  # 👋 Hi, I'm Shahd Alsrory
+<h1 align="center"> 👋 Hi, I'm Shahd Alsrory</h1>
 
 ### IT Student | Aspiring Web Developer
 
