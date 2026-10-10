@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./WhatsApp%20Image%202026-10-10%20at%2010.52.21%20PM.jpeg" alt="Shahd's tech workspace banner" width="100%">
+</p>
 <h1 align="center"> 👋 Hi, I'm Shahd Alsrory</h1>
 
 ### IT Student | Aspiring Web Developer
