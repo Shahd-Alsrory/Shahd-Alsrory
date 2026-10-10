@@ -1,21 +1,35 @@
-Hi, I'm Shahd 👋
+<div align="center">👋 Hi, I'm Shahd Alsrory
 
-🎓 IT Student at Aden University
+IT Student | Aspiring Web Developer
 
-💻 Aspiring Software Developer
+Exploring technology and turning ideas into practical digital experiences.
 
-I'm passionate about technology and exploring how software can turn ideas into practical digital solutions. I'm continuously learning, experimenting with new technologies, and building projects to strengthen my skills.
+</div>---
+
+👩‍💻 About Me
+
+I'm an Information Technology student at Aden University with an interest in web development and UI/UX design.
+
+I enjoy developing websites, exploring new technologies, and applying what I learn to continuously improve my skills.
 
 🚀 Areas of Interest
 
-- Web Development (Frontend & Backend)
-- Mobile App Development with Flutter
-- UI/UX and User-Centered Design
+- 🌐 Web Development — Frontend & Backend
+- 🎨 UI/UX Design
+- 📱 Mobile App Development
 
-🌱 My Learning Journey
+🛠️ Technologies & Learning
 
-I'm expanding my knowledge through hands-on practice, exploring different areas of software development, and building projects that help me grow both technically and creatively.
+- HTML, CSS & JavaScript: Building websites and improving my frontend development skills.
+- Backend Development: Developing my knowledge through learning and practical projects.
+- Flutter: Interested in exploring mobile app development.
 
 🎯 My Goal
 
-To become a professional web and mobile app designer and developer, combining creativity and technology to build beautiful, functional, and user-centered digital experiences.
+To become a professional web developer and mobile app designer, combining creativity and technology to build attractive, functional, and user-friendly digital experiences.
+
+---
+
+<div align="center">✨ Learn · Build · Improve ✨
+
+</div>
