@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Shahd 👋
 
-<!--
-**Shahd-Alsrory/Shahd-Alsrory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student at Aden University
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about technology and exploring how software can turn ideas into practical digital solutions. I'm continuously learning, experimenting with new technologies, and building projects to strengthen my skills.
+
+🚀 Areas of Interest
+
+- Web Development (Frontend & Backend)
+- Mobile App Development with Flutter
+- UI/UX and User-Centered Design
+
+🌱 My Learning Journey
+
+I'm expanding my knowledge through hands-on practice, exploring different areas of software development, and building projects that help me grow both technically and creatively.
+
+🎯 My Goal
+
+To become a professional web and mobile app designer and developer, combining creativity and technology to build beautiful, functional, and user-centered digital experiences.
